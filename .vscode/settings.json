@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.wordWrapColumn": 120,
+    "cSpell.words": ["persistor", "reduxjs"]
+  }
